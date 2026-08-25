@@ -18,7 +18,7 @@ import { Host, Phase, File, SystemdService } from '@infra-x/host-library';
 
 That deploys an app to a VPS over SSH. The same JSX shape — different component libraries — targets Docker, Cloudflare Workers, Postgres schemas, and more.
 
-🌐 **Site:** [infrazero.dev](https://infrazero.dev)
+🌐 **Site:** [infrazero.dev](https://infrazero.dev) · 𝕏 [@infrazerodev](https://x.com/infrazerodev)
 
 > ### 🚧 Early alpha — not production ready
 > Everything here is under active development, incompletely tested, and its APIs change without notice. Don't point it at production infrastructure or real data. Provided "AS IS", no warranty.
