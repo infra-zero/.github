@@ -58,7 +58,7 @@ TypeScript · Node.js · JSX · Cloudflare · Postgres · GitHub Actions · sema
 
 ---
 
-**Licensing:** BSL 1.1 for the core runtimes and CLIs, MIT for the component libraries — see `LICENSING.md` in `infrazero` and `infrazero-db`. The `examples` repo is MIT throughout.
+**Licensing:** Open source — Apache-2.0 for the core runtimes and CLIs, MIT for the component libraries — see `LICENSING.md` in `infrazero` and `infrazero-db`. The `examples` repo is MIT throughout.
 
 💬 **Questions?** [Discussions on infrazero-db](https://github.com/infra-zero/infrazero-db/discussions) · ❤️ [Sponsor](https://github.com/sponsors/rtorcato)
 
