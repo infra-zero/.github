@@ -62,4 +62,4 @@ TypeScript · Node.js · JSX · Cloudflare · Postgres · GitHub Actions · sema
 
 💬 **Questions?** [Discussions on infrazero-db](https://github.com/infra-zero/infrazero-db/discussions) · ❤️ [Sponsor](https://github.com/sponsors/rtorcato)
 
-Maintained by **[@rtorcato](https://github.com/rtorcato)** [![GitHub](https://img.shields.io/badge/@rtorcato-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rtorcato) · [Matrix Digital Solutions](https://matrixdigital.com)
+Maintained by **[@rtorcato](https://github.com/rtorcato)** · [Matrix Digital Solutions](https://matrixdigital.com)
